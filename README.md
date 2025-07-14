@@ -43,6 +43,8 @@ $ ./tree-md .
 - CNN:	Custom 5-layer CNN with Conv, ReLU, BN, Pool, Dropout
 - InceptionV3:	Transfer learning from ImageNet, with custom dense head and softmax
 
+Pre-trained Models: https://drive.google.com/drive/folders/1QsdquePqBrX0g_kM6v8BXO4eH274Uycn?usp=sharing
+
 ## 🔍 Explainability with LIME
 LIME was applied post-training to understand which parts of the pet image contributed most to the prediction.
 - Highlights eyes, paws, and background as key visual features
