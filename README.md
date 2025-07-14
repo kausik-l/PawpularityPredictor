@@ -13,6 +13,22 @@ The goal is not just high performance, but also explainability and trustworthine
 - Neural networks can predict visual appeal, but are black-boxes.
 - This project builds both a robust model and a trustworthy explanation system to help animal welfare platforms like PetFinder.my improve their decision-making tools.
 
+$ ./tree-md .
+# Project tree
+.
+ * [tree-md](./tree-md)
+ * [dir2](./dir2)
+   * [file21.ext](./dir2/file21.ext)
+   * [file22.ext](./dir2/file22.ext)
+   * [file23.ext](./dir2/file23.ext)
+ * [dir1](./dir1)
+   * [file11.ext](./dir1/file11.ext)
+   * [file12.ext](./dir1/file12.ext)
+ * [file_in_root.ext](./file_in_root.ext)
+ * [README.md](./README.md)
+ * [dir3](./dir3)
+
+
 ## Repository Structure
 ├── AREPS_Report.pdf               # Full project report (Data Mining course)
 ├── pawpularity.csv                # Metadata and target scores
